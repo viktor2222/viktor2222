@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Viktor 👋
 
-<!--
-**viktor2222/viktor2222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with 7+ years of commercial experience  
+Specializing in **React**, **Next.js**, and scalable SaaS products.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Build high-performance web applications
+- Develop dashboards and data-driven interfaces
+- Work with modern frontend stack (TypeScript, Tailwind, shadcn/ui)
+- Integrate APIs, AI services, payments, and authentication systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+React • Next.js • TypeScript • Tailwind CSS  
+Node.js • REST APIs • Git • CI/CD
+
+## 🎯 Currently
+Working as a Middle Frontend Developer  
+Growing in system design, architecture, and scalable SaaS development.
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/viktor-panchuk-43295215b/
+- Email: vpanchukdev@gmail.com
