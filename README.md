@@ -2,8 +2,8 @@
 
 **Fullstack Developer · Frontend-Focused — React / Next.js / Node.js**
 
-🚀 7+ years building SaaS platforms, AI-powered apps, and DeFi products
-⚡ From pixel-perfect UI to backend APIs and third-party integrations
+🚀 7+ years building SaaS platforms, AI-powered apps, and DeFi products<br>
+⚡ From pixel-perfect UI to backend APIs and third-party integrations<br>
 🧠 Performance. Clean architecture. End-to-end ownership.
 
 ---
