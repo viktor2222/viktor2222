@@ -9,7 +9,7 @@
 ---
 
 ### 🛠 Tech
-React • Next.js • TypeScript • Tailwind • Zustand • Framer Motion
+React • Next.js • TypeScript • Tailwind • Zustand • Framer Motion<br>
 Node.js • Express • REST APIs • GraphQL • Web3 • CI/CD
 
 ---
