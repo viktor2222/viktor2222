@@ -1,24 +1,24 @@
 # Viktor Panchuk 👋
 
-**Frontend Developer — React / Next.js**
+**Fullstack Developer · Frontend-Focused — React / Next.js / Node.js**
 
-🚀 Building scalable SaaS products, AI-powered platforms, and Web3 applications  
-🧠 7+ years of commercial experience  
-⚡ Performance. Architecture. Clean code.
+🚀 7+ years building SaaS platforms, AI-powered apps, and DeFi products
+⚡ From pixel-perfect UI to backend APIs and third-party integrations
+🧠 Performance. Clean architecture. End-to-end ownership.
 
 ---
 
 ### 🛠 Tech
-React • Next.js • TypeScript • Tailwind • Zustand  
-Node.js • REST APIs • Web3 • CI/CD
+React • Next.js • TypeScript • Tailwind • Zustand • Framer Motion
+Node.js • Express • REST APIs • GraphQL • Web3 • CI/CD
 
 ---
 
-### 📌 Focus
-Scalable SaaS • System Design • Advanced TypeScript
+### 📌 Currently building
+Scalable SaaS • AI integrations • System Design
 
 ---
 
 ### 📫 Contact
-🔗 LinkedIn: https://www.linkedin.com/in/vikpanchuk/  
+🔗 LinkedIn: [https://www.linkedin.com/in/vikpanchuk/](https://www.linkedin.com/in/vikpanchuk/)  
 ✉️ vpanchukdev@gmail.com
