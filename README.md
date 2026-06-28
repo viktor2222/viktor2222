@@ -17,19 +17,19 @@ I specialize in React, Next.js, and TypeScript, with experience delivering AI-po
 
 ## Tech Stack
 
-**Frontend**
+**Frontend**<br>
 React • Next.js • TypeScript • JavaScript
 
-**State Management**
+**State Management**<br>
 Zustand • Redux Toolkit • React Query
 
-**UI & Styling**
+**UI & Styling**<br>
 Tailwind CSS • SCSS • Styled Components • Framer Motion
 
-**Tools**
+**Tools**<br>
 Git • Vite • Webpack • Figma • Postman
 
-**AI & Developer Tools**
+**AI & Developer Tools**<br>
 GitHub Copilot • OpenAI API • Claude Code • Cursor
 
 ## Currently Interested In
