@@ -30,7 +30,7 @@ Tailwind CSS • SCSS • Styled Components • Framer Motion
 Git • Vite • Webpack • Figma • Postman
 
 **AI & Developer Tools**<br>
-GitHub Copilot • OpenAI API • Claude Code • Cursor
+GitHub Copilot • OpenAI API • Codex • Claude Code • Cursor
 
 ## Currently Interested In
 
